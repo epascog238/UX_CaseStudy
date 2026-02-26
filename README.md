@@ -33,7 +33,7 @@ Descripción:
 
 >>> Describa la idea de su producto en la práctica 2 
 
-Logotipo: (/logotipo_diu.png)
+Logotipo: (img/logotipo_diu.png)
 
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
