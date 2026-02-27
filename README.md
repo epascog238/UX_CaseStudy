@@ -38,8 +38,8 @@ Logotipo: ![Logotipo](img/logotipo_diu.png)
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 Miembros y nombre del equipo:
- * :bust_in_silhouette:  Rubén Callejas Fernández    :octocat:     
- * :bust_in_silhouette:  Gabriel Pasco Fernández    :octocat:
+ * :bust_in_silhouette:  Rubén Callejas Fernández    :octocat:  https://github.com/RubenCF2505     
+ * :bust_in_silhouette:  Gabriel Alejandro Pasco Fernández    :octocat: https://github.com/epascog238 
 
 >>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
